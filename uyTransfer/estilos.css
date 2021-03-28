@@ -1,0 +1,28 @@
+#header {
+	width: 70%;
+	border-color: black;
+	border-width: 15px;
+	margin: auto;
+	background-color: grey;
+	overflow: hidden;
+	height: 100px;
+}
+#titleHeader {
+	color: white;
+	font-size: 20px;
+	padding: 20px;
+	padding-left: 90px;
+}
+#subHeader {
+	color: white;
+	font-size: 20px;
+	text-decoration: underline;
+	text-align: right;
+	padding: 20px;
+	padding-right: 70px;
+}
+#form {
+	width: 70%;
+	text-align: center;
+	margin: auto;
+}
