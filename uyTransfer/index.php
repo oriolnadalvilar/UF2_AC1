@@ -10,6 +10,7 @@
 	<div id="form">
 		<form enctype="multipart/form-data" method="post" action="upload.php">
 			<div>
+				<label for="element_1">Tu nombre:</label>
 				<input id="element_1" name="element_1" type="text"/> 
 			</div> 
 
@@ -19,11 +20,12 @@
 
 			<span>
 				<input id="element_5_1" name="element_5_1" type="checkbox"/>
-			<label class="choice" for="element_5_1">First option</label>
+			<label class="choice" for="element_5_1">Deseo enviar el enlace por correo electrónico</label>
 
 			</span> 
 
 			<div>
+				<label for="element_3">Correo Electrónico:</label>
 				<input id="element_3" name="element_3" type="text" /> 
 			</div> 
 
